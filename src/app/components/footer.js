@@ -6,7 +6,7 @@ export class Footer extends React.Component {
 	render(){
 		return(
 			<div className="footer">
-			 <h6>Copyright@2019</h6>
+			 <footer>Copyright@2019</footer>
 			</div>
 		);
 	}
