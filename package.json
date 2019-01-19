@@ -1,5 +1,5 @@
 {
-  "name": "voting_app",
+  "name": "Moderna_API",
   "version": "1.0.0",
   "description": "reactjs",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibra2k2/voting_app.git"
+    "url": "git+https://github.com/ibra2k2/Moderna_API.git"
   },
   "keywords": [
     "reactjs"
@@ -18,9 +18,9 @@
   "author": "Mohammad Ibrahim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ibra2k2/voting_app/issues"
+    "url": "https://github.com/ibra2k2/Moderna_API/issues"
   },
-  "homepage": "https://github.com/ibra2k2/voting_app#readme",
+  "homepage": "https://github.com/ibra2k2/Moderna_API#readme",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
